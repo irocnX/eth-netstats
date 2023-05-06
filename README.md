@@ -1,8 +1,8 @@
 Ethereum Network Stats
 
 ## 重构任务
- - [] 用webpack代理前端开发
- - [] 用actix-web作为后端开发
+ - [ ] 用webpack代理前端开发
+ - [ ] 用actix-web作为后端开发
  - 
  
 ============
