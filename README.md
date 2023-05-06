@@ -4,8 +4,9 @@ Ethereum Network Stats
  - [] 用webpack代理前端开发
  - [] 用actix-web作为后端开发
  - 
-
+ 
 ============
+
 This is a visual interface for tracking ethereum network status. It uses WebSockets to receive stats from running nodes and output them through an angular interface. It is the front-end implementation for [eth-net-intelligence-api](https://github.com/cubedro/eth-net-intelligence-api).
 
 ![Screenshot](https://raw.githubusercontent.com/cubedro/eth-netstats/master/src/images/screenshot.jpg?v=0.0.6 "Screenshot")
